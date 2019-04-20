@@ -12,7 +12,7 @@ print (f"My name is Chris.")
 print()
 print (f"I am {a} years old.")
 print()
-print ("I haven't touched programing since BBC BASIC (Model b), or Sinclair BASIC (ZX-Spectrum), and I can't remember anything.")
+print ("I haven't touched programing since BBC BASIC (Model B), or Sinclair BASIC (ZX-Spectrum), and I can't remember anything.")
 
 # Number of weeks I've been learnning Python
 
